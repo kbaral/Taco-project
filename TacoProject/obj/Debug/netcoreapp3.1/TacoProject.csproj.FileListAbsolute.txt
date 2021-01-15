@@ -1,0 +1,13 @@
+C:\Users\kbaral\source\repos\TacoProject\bin\Debug\netcoreapp3.1\TacoProject.exe
+C:\Users\kbaral\source\repos\TacoProject\bin\Debug\netcoreapp3.1\TacoProject.deps.json
+C:\Users\kbaral\source\repos\TacoProject\bin\Debug\netcoreapp3.1\TacoProject.runtimeconfig.json
+C:\Users\kbaral\source\repos\TacoProject\bin\Debug\netcoreapp3.1\TacoProject.runtimeconfig.dev.json
+C:\Users\kbaral\source\repos\TacoProject\bin\Debug\netcoreapp3.1\TacoProject.dll
+C:\Users\kbaral\source\repos\TacoProject\bin\Debug\netcoreapp3.1\TacoProject.pdb
+C:\Users\kbaral\source\repos\TacoProject\obj\Debug\netcoreapp3.1\TacoProject.csprojAssemblyReference.cache
+C:\Users\kbaral\source\repos\TacoProject\obj\Debug\netcoreapp3.1\TacoProject.AssemblyInfoInputs.cache
+C:\Users\kbaral\source\repos\TacoProject\obj\Debug\netcoreapp3.1\TacoProject.AssemblyInfo.cs
+C:\Users\kbaral\source\repos\TacoProject\obj\Debug\netcoreapp3.1\TacoProject.csproj.CoreCompileInputs.cache
+C:\Users\kbaral\source\repos\TacoProject\obj\Debug\netcoreapp3.1\TacoProject.dll
+C:\Users\kbaral\source\repos\TacoProject\obj\Debug\netcoreapp3.1\TacoProject.pdb
+C:\Users\kbaral\source\repos\TacoProject\obj\Debug\netcoreapp3.1\TacoProject.genruntimeconfig.cache
